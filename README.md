@@ -1,2 +1,2 @@
 # detect-redirect
-Detect the device and redirect mobile website
+Detect the device and redirect to mobile website
